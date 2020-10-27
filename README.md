@@ -1,2 +1,1 @@
-# vim-config
-my vim setup
+#termux-setup Bash
